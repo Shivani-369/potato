@@ -1,0 +1,36 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.env/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Dataset (don’t push full dataset to GitHub)
+data/tubers/
+data/split/
+
+# Model checkpoints and outputs
+checkpoints/
+outputs/
+*.h5
+*.pt
+*.pth
+
+# Logs
+logs/
+*.log
+
+# IDE/Editor configs
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
