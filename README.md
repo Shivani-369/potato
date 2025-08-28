@@ -9,5 +9,5 @@ This helps reduce wastage, disputes, and financial loss in the supply chain.
 Invisible internal defects in potatoes are hard to detect manually.
 Our goal is to build a non-invasive AI system that classifies potatoes into:
 
-✅ Healthy
+✅ Healthy.
 ❌ Defective (Hollow Heart, Black Heart, Necrosis, etc.)
