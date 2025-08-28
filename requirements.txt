@@ -1,0 +1,24 @@
+# Core ML/DL
+torch
+torchvision
+torchsummary
+
+# Data handling
+numpy
+pandas
+scikit-learn
+Pillow
+
+# Visualization
+matplotlib
+seaborn
+
+# Web app
+flask
+
+# Utilities
+tqdm
+
+# Jupyter notebooks (optional, for experiments)
+jupyter
+notebook
